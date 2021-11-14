@@ -7,7 +7,6 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.stereotype.Component;
 
-@ComponentScan(basePackages = {"guru.springframework.sfgdi","guru.springframework.pets"})
 @SpringBootApplication
 public class SfgDiApplication {
 
