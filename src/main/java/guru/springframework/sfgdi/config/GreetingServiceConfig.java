@@ -17,7 +17,7 @@ import javax.xml.crypto.Data;
  * @since 11/14/21
  */
 
-@PropertySource("classpath:datasource.properties")
+//@PropertySource("classpath:datasource.properties")
 @ImportResource("classpath:sfg-di.config.xml")
 @Configuration
 public class GreetingServiceConfig {
